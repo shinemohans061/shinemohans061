@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Shine+Mohan+S;Building+CubeSat+Systems;Embedded+Systems+Enthusiast;SpaceTech+Lover&center=true&size=20">
+</p>
 
-<!--
-**shinemohans061/shinemohans061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 About Me
 
-Here are some ideas to get you started:
+BTech Electrical and Electronics Engineering  
+Building CubeSat Systems | Embedded Systems Enthusiast  
+Passionate about SpaceTech, Microcontrollers, and PCB Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Programming: C, Python, Arduino
+- Hardware: PCB Design (KiCad, EasyEDA), Embedded Systems
+- Tools: Git, MATLAB, LTspice
+
+---
+
+## 📈 GitHub Stats
+![Shine's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinemohans061&show_icons=true&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=shinemohans061&theme=darkhub)
+
+---
+
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shine-mohan-s-81bb1025b/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:shinemohans061@gmail.com)
